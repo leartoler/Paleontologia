@@ -1,0 +1,2 @@
+Como se menciona en [[Allmon. et. al. (2018).pdf]], no solo es necesario tener a la disponibilidad la información en una base de datos, sino también su estudio. Esta información se puede ver enriquecida con las interpretaciones o estudios que se hagan con la inteligencia artificial o machine learning, teniendo varios campos de estudios nuevos o nuevas metodologías para cauda uno de los diferetntes propósitos que s epueda obtener. 
+

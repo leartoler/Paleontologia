@@ -1,0 +1,5 @@
+La tafonomía es la rama de la paleontología que estudia los procesos de fosilización, es decir, cómo los organismos se descomponen, se preservan y se convierten en fósiles después de su muerte. Este campo analiza los factores biológicos, químicos y físicos que afectan la preservación de los restos orgánicos, como la descomposición, el entierro, la diagénesis (cambios postmortem en los restos), y cómo estos procesos influyen en el registro fósil.
+
+Los estudios tafonómicos son cruciales para interpretar correctamente el registro fósil, ya que permiten a los científicos distinguir entre los efectos del ambiente postmortem y las características originales del organismo cuando estaba vivo. Esto incluye la comprensión de cómo los huesos se acumulan en un lugar, la relación entre los fósiles y el entorno sedimentario, y los cambios que pueden ocurrir antes de que los restos se conviertan en fósiles.
+
+La tafonomía también tiene aplicaciones en otros campos, como la arqueología, donde se utiliza para entender la preservación de restos humanos y artefactos [[Lyman, 1994.pdf]]

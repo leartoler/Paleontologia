@@ -1,0 +1,1 @@
+Es una fuente de información a la anatomía, fisiología y dinámicas temporales y espaciales. A nivel fundamental, es una narrativa de cambios de fenotipos y sus funciones, origen, persistencia y falta de formas biológicas, acompañado de cambios en el comportamiento, fisiología y vida [[Jablonski & Shubin.pdf]].
