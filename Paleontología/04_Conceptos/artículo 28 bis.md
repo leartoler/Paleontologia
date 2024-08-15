@@ -1,3 +1,0 @@
-Por disposición del **Artículo 28 BIS** de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, para los efectos de esta Ley y de su Reglamento, las disposiciones sobre monumentos y zonas arqueológicos serán aplicables a los vestigios o restos fósiles de seres orgánicos que habitaron el territorio nacional en épocas pretéritas y que revistan interés paleontológico, por lo que requieren que sean regulados por la autoridad en la materia a fin de garantizar la protección de los mismos, lo que exige la intervención de un cuerpo colegiado como órgano consultivo de la Dirección General del Instituto Nacional de Antropología e Historia, acciones que recaen en el Consejo de Paleontología del INAH [[ley federal de monumentos.pdf]]
-
-ppp

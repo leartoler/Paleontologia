@@ -1,5 +1,0 @@
-El fenotipo es el conjunto de características observables de un organismo, como su apariencia física, comportamiento, y otras manifestaciones biológicas. Estas características resultan de la interacción entre el genotipo (la composición genética del organismo) y el ambiente en el que se desarrolla.
-
-El fenotipo incluye aspectos como el color de los ojos, la altura, la forma de las hojas en las plantas, o el patrón de comportamiento de un animal. Aunque el genotipo proporciona el plan genético que determina estas características, el ambiente también puede influir en cómo se expresan. Por ejemplo, una planta puede tener el genotipo para crecer alta, pero si no recibe suficiente luz, su fenotipo será más bajo de lo esperado.
-
-El concepto de fenotipo es crucial en la biología, especialmente en estudios de herencia, evolución, y adaptación, ya que permite a los científicos observar cómo las variaciones genéticas se manifiestan en el mundo real y cómo estas pueden ser influenciadas por factores externos.
